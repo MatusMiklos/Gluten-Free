@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Gluten Free</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_list">Zoznam</string>
+    <string name="title_activity_form">Formulár</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="menu_button_restaurants">PODNIKY</string>
+    <string name="menu_button_add_shop">Vyber si jednu z možností na pridanie</string>
+    <string name="menu_button_find">Vyber si jednu z možností na vyhľadanie</string>
+    <string name="menu_button_shops">OBCHODY</string>
+    <string name="maps_okay">ok</string>
+    <string name="main_welcome">Vitajte v aplikácii\n Gluten Free</string>
+    <string name="form_button_location">vybrať adresu</string>
+    <string name="form_button_send">odošli formulár</string>
+    <string name="maps_current_position">Vaša poloha</string>
+    <string name="form_name">Názov</string>
+    <string name="form_adress">Adresa</string>
+    <string name="form_desc">Popis</string>
+    <string name="form_photo">Fotka/Obrázok</string>
+    <string name="maps_snackbar">Nepodarilo sa získať Vašu polohu</string>
+    <string name="detail_name">Názov podniku</string>
+    <string name="detail_text">Typ podniku</string>
+    <string name="detail_address">Adresa podniku</string>
+</resources>
